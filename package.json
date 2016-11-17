@@ -40,8 +40,8 @@
     }
   ],
   "dependencies": {
-    "cordova-plugin-device": "*",
-    "cordova-plugin-app-event": ">=1.1.0"
+    "https://github.com/apache/cordova-plugin-device.git": "*",
+    "https://github.com/katzer/cordova-plugin-app-event.git": ">=1.1.0"
   },
   "author": "Sebastián Katzer",
   "license": "Apache-2.0",
